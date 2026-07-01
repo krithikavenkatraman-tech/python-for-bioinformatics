@@ -4,19 +4,34 @@
 
 Generate the reverse complement of a DNA sequence using Python.
 
-## Concepts
+## Biological Background
 
-- DNA Base Pairing
-- Reverse Complement
-- String Manipulation
-- Python Dictionaries
+DNA consists of complementary base pairs:
+- A ↔ T
+- G ↔ C
 
-## Example
+The reverse complement is widely used in PCR primer design, sequence analysis, and genomics.
 
-Input
+## Input
 
+DNA sequence
+
+Example:
 ATGCCGTA
 
-Output
+## Output
 
 TACGGCAT
+
+## Concepts Used
+
+- Python dictionaries
+- String slicing
+- Loops
+- DNA base pairing
+
+## Applications
+
+- Primer design
+- Sequence alignment
+- Comparative genomics
