@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="figures/repository_banner3.png" width="100%">
+  <img src="figure/repository_banner3.png" width="100%">
 </p>
 
 # 🧬 Python for Bioinformatics
