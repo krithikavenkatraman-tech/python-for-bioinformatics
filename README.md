@@ -1,4 +1,7 @@
-# python-for-bioinformatics
+<p align="center">
+  <img src="figures/repository_banner3.png" width="100%">
+</p>
+
 # 🧬 Python for Bioinformatics
 
 A curated collection of Python scripts and mini-projects developed during my MSc in Computational Molecular Sciences to automate common bioinformatics tasks and analyze biological data.
